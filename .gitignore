@@ -1,5 +1,9 @@
 .OTTER_LOG
 
+# Data
+eds-220-homework/eds220-hwk3/data/tl_2026_us_county
+eds-220-homework/eds220-hwk3/data/Spill_Incidents_20261106.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
